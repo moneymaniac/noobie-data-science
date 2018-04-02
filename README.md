@@ -6,3 +6,5 @@ Just a beginner's first interaction with  data science world sort of saying  "he
 2. http://connor-johnson.com/2014/02/18/linear-regression-with-python/
 
 3. http://www.dataschool.io/linear-regression-in-python/ 
+
+4. http://people.duke.edu/~rnau/regintro.htm
